@@ -7,7 +7,8 @@ We’re building the digital version of you and your friends going out to lunch:
 Even as a simple web app — no notifications, no reminders, built-in friction — 40 early users kept coming back. No growth tricks. Just something people chose to return to. SOMETHING POEPLE WANTED!
 
 We’re now in the process of being approved on the Apple App Store.
-
-<img src="Home_screen.png" width="600" />
-<img src="Feed_screen.png" width="600" />
-<img src="Chat_screen.png" width="600" />
+<p float="left">
+  <img src="Home_screen.png" width="45%" />
+  <img src="Feed_screen.png" width="45%" />
+  <img src="Chat_screen.png" width="45%" />
+</p>
