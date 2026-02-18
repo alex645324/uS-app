@@ -8,7 +8,7 @@ Even as a simple web app — no notifications, no reminders, built-in friction �
 
 We’re now in the process of being approved on the Apple App Store.
 <p float="left">
-  <img src="Home_screen.png" width="45%" />
-  <img src="Feed_screen.png" width="45%" />
-  <img src="Chat_screen.png" width="45%" />
+  <img src="Home_screen.png" width="20%" />
+  <img src="Feed_screen.png" width="20%" />
+  <img src="Chat_screen.png" width="20%" />
 </p>
