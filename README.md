@@ -1,6 +1,6 @@
 
 
-# uS-app
+**uS:)**
 
 We’re building the digital version of you and your friends going out to lunch: just your table, your conversation, no one else invited and no one else watching.
 
