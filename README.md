@@ -6,7 +6,7 @@ Im building the digital version of you and your friends going out to lunch: just
 
 Even as a simple web app no notifications, no reminders, built-in friction — 224 early users kept coming for 90 days+. No growth tricks. JUST SOMETHING POEPLE WANTED!
 
-Its Currently live on the app store: https://apps.apple.com/us/app/id6758853646
+Its Currently live on the app store with a growing users base: https://apps.apple.com/us/app/id6758853646
 <p float="left">
   <img src="Home_screen.png" width="20%" />
   <img src="Feed_screen.png" width="20%" />
